@@ -13,7 +13,7 @@ hotmail:
 eerenelif@hotmail.com 
 
 gmail:
-eerenelif0@gamil.com
+eerenelif0@gmail.com
        
 ---
 
