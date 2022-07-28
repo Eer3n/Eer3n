@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏻 I am Eren, Elif!
 
-Hello everybody!
 
 I’m just starting junior year of my Computer Science and Enginnering studies at Yonsei University in South Korea. 
 
@@ -10,8 +9,11 @@ I’m very into Artifical Intelligence and love intersection of programming. I'm
 
 Contact Information
 
-email: eerenelif@hotmail.com
-       eerenelif0@gamil.com
+hotmail: 
+eerenelif@hotmail.com 
+
+gmail:
+eerenelif0@gamil.com
        
 ---
 
