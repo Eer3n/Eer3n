@@ -3,7 +3,7 @@
 
 I’m just starting senior year of my Computer Science and Enginnering studies at Yonsei University in South Korea. 
 
-I’m very into Artifical Intelligence and love intersection of programming. I'm currently learning Spring-Boot, PostgreSQL, Hibernate and C++ language.
+I’m very into Artifical Intelligence and love intersection of programming. I'm currently learning Spring-Boot, PostgreSQL, Hibernate and Deep Learning.
 
 --- 
 
