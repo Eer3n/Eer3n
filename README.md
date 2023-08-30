@@ -20,13 +20,14 @@ eerenelif0@gmail.com
 🧰 Toolbox 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3 logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java logo" width="50" height="50" />  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="spring-boot logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg" alt="hibernate logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width="50" height="50" />
 
 
 ---
 
 💻 Familiar with 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++ logo" width="50" height="50" /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++ logo" width="50" height="50" /> 
  
 
 <!--
